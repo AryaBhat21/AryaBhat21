@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
 🏫 NMAM Institute of Technology (NMAMIT)
 
+🖥️ **Technical Intern** – Advith ITec 
+
 💼 **Front end Developer Intern** – Vanora Robots
 
 🏆 **Operations Manager - FInite Loop Club**
